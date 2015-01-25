@@ -16,7 +16,7 @@ http://fredericbonifas.free.fr/osm/garmin.html
 http://www.freizeitkarte-osm.de/garmin/en/france.html
 http://www.wanderreitkarte.de/garmin_de.php?lang=en
 
-reset le GPS : GPS éteint, maintenir les boutons menu et retour appuyés, puis allumer le GPS sans lacher les autres boutons
+reset le GPS : GPS éteint, maintenir les boutons menu et clic central sur le pad appuyés, puis allumer le GPS sans lacher les autres boutons
 
 Ne pas utiliser mapsource qui est pourri
 
