@@ -19,3 +19,35 @@ http://www.wanderreitkarte.de/garmin_de.php?lang=en
 reset le GPS : GPS éteint, maintenir les boutons menu et retour appuyés, puis allumer le GPS sans lacher les autres boutons
 
 Ne pas utiliser mapsource qui est pourri
+
+systeme métrique
+fuseau horaire paris
+couleur jour
+
+carte
+heure
+cap
+
+ordi de route
+précision
+cap
+temps total
+déplacement moyen
+heure du jour
+moyenne globale
+vitesse
+odom trajet
+
+odom trajet
+vitesse
+heure du jour
+
+boussole
+vitesse
+cap
+heure du jour
+précision
+
+altimetre
+
+
