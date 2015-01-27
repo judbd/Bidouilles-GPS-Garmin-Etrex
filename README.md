@@ -5,7 +5,7 @@ Utiliser Garmin BaseCamp plutôt que MapSource
 En cas de non détection du GPS, nettoyer le connecteur USB (!!) ou mettre à jour les drivers
 EasyGPS est une solution pratique pour réppatrier les infos contenues dans le GPS
 
-SUpprimer des cartes de l'Etrex Summit HC
+Supprimer des cartes de l'Etrex Summit HC
 la seule solution trouvée pour le moment est de réinstaller des cartes (ou aucune cartes) avec BaseCamp pour écraser la mémoire
 
 Cartes Open Street Maps
@@ -20,15 +20,24 @@ reset le GPS : GPS éteint, maintenir les boutons menu et clic central sur le pa
 
 Ne pas utiliser mapsource qui est pourri
 
+GPS multicolore
+New location > se mettre à l'emplacement actuel
+WAAS EGNOS enabled
+perte d'alim extérieure = rester allumé
+tonalités touches = off
 systeme métrique
 fuseau horaire paris
-couleur jour
+format 24h
+couleur auto
 
-carte
+Successions d'écrans
+---
+
+_carte_
 heure
 cap
 
-ordi de route
+_ordi trajet_
 précision
 cap
 temps total
@@ -36,13 +45,14 @@ déplacement moyen
 heure du jour
 moyenne globale
 vitesse
-odom trajet
+odom
 
-odom trajet
+_grand affichage_
+odometre
 vitesse
 heure du jour
 
-boussole
+_boussole_
 vitesse
 cap
 heure du jour
